@@ -1,0 +1,6 @@
+<?php
+$cookie_name="User";
+$cookie_value="Google";
+setcookie($cookie_name,$cookie_value,time()+(86400),"/");
+echo"cookie is set";
+?><?php
