@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("swati\n");
+    printf("risha\n");
     int a[20],n,i;
     int bubblesort(int[],int);
     printf("enter number of elements(<=20)=");
