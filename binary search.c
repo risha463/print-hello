@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("swati\n");
+    printf("risha\n");
     int a[20],i,n,loc,item;
     int bsearch(int[],int,int);
     printf("enter number of sorted elements(<=20)=");
